@@ -43,7 +43,7 @@ UnHoneyed is an open-source browser extension designed to democratize the proces
 ### **Browser Extension**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/UnHoneyed.git
+   git clone https://github.com/Dont-Copy-That-Floppy/UnHoneyed.git
    cd UnHoneyed/browser-extension
    ```
 2. Build the extension (if required):
